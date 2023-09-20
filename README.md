@@ -1,4 +1,4 @@
-# Integrate Adjemin Gateway in Woocommerce
+# Integrate AdjeminPay in Woocommerce
 
 Gateway sdk to allow online payment in your Woocommerce
 

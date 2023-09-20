@@ -12,10 +12,10 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-AdjeminPay est un service proposé par [Adjemin](https://adjemincloud.com) aux startup, entreprises et institutions financières afin de leur faciliter
+AdjeminPay est un service proposé par [Adjemin](https://adjemin.com) aux startup, entreprises et institutions financières afin de leur faciliter
  la collecte de fonds sur sites internet et applications mobiles. 
 
-Le Plugin Wordpress AdjeminPay intègre les paiements mobile money dans votre site WooCommerce.
+Le Plugin Wordpress AdjeminPay intègre les paiements mobile money et carte bancaire dans votre site WooCommerce.
 
 
 == Frequently Asked Questions ==
@@ -30,7 +30,7 @@ Il suffit de suivre la [documentation](https://docs.adjeminpay.net/docs/woocomme
 Envoyez un email au [Service Client AdjeminPay](mailto:support.adjeminpay@adjemin.com)
 
 == Screenshots ==
-
+0. [Télécharger le plugin via] (https://github.com/adjemin/gateway_woocommerce_plugin/raw/main/adjeminpay_v2.0.0.zip)
 1. Installation de AdjeminPay
 2. Activer AdjeminPay dans WooCommerce
 3. Configuration dans wooCommerce
@@ -42,5 +42,5 @@ Envoyez un email au [Service Client AdjeminPay](mailto:support.adjeminpay@adjemi
 
 == Changelog ==
 
-= 1.0.0 =
+= 2.0.0 =
 * Initial Version
